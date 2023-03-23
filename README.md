@@ -1,6 +1,6 @@
 <h1> baddestbank</h1> 
 $ https://edar-tlisbankingapp.s3.amazonaws.com/index.html#/createaccount/
-  <p>Description: This is a front end banking assignment app made on the that I finsihed. It needed to have a balance, accounts, depost and withdrawal, and an all data table. A home page with picture and a boostrap card.</p>   
+  <p>Description: This is a front end banking assignment app that I finsihed. It needed to have balance, accounts, depost and withdrawal, and an all data table. A home page with picture and a boostrap card.</p>   
     <p>Installation Guidelines: clone or curl open in your favorite code editor. Type in npm i in the terminal to istall all the needed dependencies.</p>
     <p>Technology used: React framework, Bootstrap.</p> 
     <img style="width:600px ; height:400px" src="https://user-images.githubusercontent.com/108901257/227074638-3be947d0-5e97-412a-9ce0-2c3d5dea3e85.png">
