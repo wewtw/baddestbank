@@ -1,0 +1,71 @@
+.container {
+    
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#hum{
+    justify-self: end;
+    border: 2em;
+    padding: 1em;
+    margin: 1em;
+}
+
+#navbar-brand{
+    font-size: 30px;
+    color: rgb(23, 60, 173);
+}
+
+
+.card {
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
+.card-title{
+    font-style: italic;
+    font-size: medium;
+}
+.card-body {
+    
+    background-color: rgb(90, 80, 90);
+    font-weight: bold;
+    color: yellow;
+}
+
+.card-header {
+    font-size: large;
+    background-color:aquamarine;
+    font-weight: bold;
+    color: black;
+}
+.table th{
+    border: 1px solid rgb(241, 16, 16);
+    color: rgb(43, 47, 170);
+    background-color: rgb(57, 146, 103);
+}
+.table td{
+    border: 1px solid black;
+    color: yellow;
+    background-color: rgb(66, 61, 66);
+    padding: 1px;
+}
+.btn btn-light{
+    margin: 1em;
+    padding: 2em;
+}
+#root{
+    height: 100vh;
+    background-image: url('./components/backimg.jpg');
+    background-size: cover;
+    
+}
+
+#basic-navbar-nav{
+  background-color: aquamarine;
+  border-radius: 15px;
+  
+  font-size: large;
+}
